@@ -1,0 +1,3 @@
+ErrorDocument 404 /lks_selesai/nesashop/error/404.php
+ErrorDocument 403 /lks_selesai/nesashop/error/403.php
+Options -indexes
